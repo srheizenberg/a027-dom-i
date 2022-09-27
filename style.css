@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#lista-de-frutas {
+    background-color: black;
+    border: black solid 2px;
+    padding: 20px;
+    font-size: 22px;
+}
+li {
+    list-style: none;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-transform:uppercase;
+}
+
+#fruta-1 {
+    color: orangered;
+}
+#fruta-2 {
+    color: green;
+}
+#fruta-3 {
+    color: rebeccapurple;
+}
+#fruta-4 {
+    color: red;
+}
+
+#lista-de-frutas:hover {
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJHp0GC5D4ZgRb5FzC1_4k6UvPn4rwwLQ8nDnrmrompcgE_v1w6d6yAlol6PiBIfsfTXQ&usqp=CAU);
+    height: 200px;
+}
+
