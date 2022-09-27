@@ -5,4 +5,7 @@ Depois disso, escreva **No DevTools** o código necessário para que seja possí
 Cole o comando aqui:
 ```jsx
     cole o código JS nesta área.
+   var fruta4 = fruta04.value;
+   console.log(fruta4);
+
 ```
